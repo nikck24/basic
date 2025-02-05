@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Step two
         run: ls -la
-      -name: third step.
+     
         
 
   job2:
